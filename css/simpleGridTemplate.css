@@ -189,6 +189,20 @@ footer {
 	padding-left: 20px;
 	padding-right: 20px;
 }
+body {
+    color: #000000;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    background-color: #CAA4CB;
+}
+table tr td {
+    font-family: Arial, cursive, fantasy, serif, "Niagara Solid", "MV Boli";
+    font-style: oblique;
+    font-size: small;
+    text-decoration: none;
+    text-align: left;
+}
+
+
 
 /* Mobile */
 @media (max-width : 306px ){
