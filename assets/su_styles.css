@@ -1,0 +1,26 @@
+@charset "utf-8";
+body{
+	background-color: #D92FE5
+}
+nav{
+	
+}.aside {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.section {
+    height: 300px;
+    width: 300px;
+    float: right;
+}
+.footer {
+    clear: both;
+}
+.main {
+    height: 300px;
+    width: 300px;
+    clear: both;
+    float: left;
+}
